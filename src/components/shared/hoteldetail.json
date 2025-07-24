@@ -1,0 +1,49 @@
+{
+  "collectionName": "components_shared_hoteldetails",
+  "info": {
+    "displayName": "hoteldetail",
+    "icon": "house"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "aboutdetails": {
+      "type": "blocks"
+    },
+    "location": {
+      "type": "blocks"
+    },
+    "Rating": {
+      "type": "blocks"
+    },
+    "room1": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "roomdetails1": {
+      "type": "blocks"
+    },
+    "room2": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "roomdetails2": {
+      "type": "blocks"
+    }
+  },
+  "config": {}
+}

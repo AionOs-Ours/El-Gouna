@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_shared_rooms",
+  "info": {
+    "displayName": "Room",
+    "icon": "house"
+  },
+  "options": {},
+  "attributes": {
+    "Details": {
+      "type": "blocks"
+    }
+  },
+  "config": {}
+}
