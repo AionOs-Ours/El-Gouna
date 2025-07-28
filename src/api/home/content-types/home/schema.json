@@ -1,0 +1,33 @@
+{
+  "kind": "singleType",
+  "collectionName": "homes",
+  "info": {
+    "singularName": "home",
+    "pluralName": "homes",
+    "displayName": "Home"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "A_HeroSection": {
+      "type": "blocks"
+    },
+    "B_HeroBackgroundSection": {
+      "type": "blocks"
+    },
+    "C_CenterBannerSection": {
+      "type": "blocks"
+    },
+    "D_BannerSection": {
+      "type": "blocks"
+    },
+    "E_FooterSection": {
+      "type": "blocks"
+    }
+  }
+}

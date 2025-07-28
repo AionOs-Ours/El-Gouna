@@ -1,0 +1,25 @@
+# Docker-related files
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Git-related files
+.git
+.gitignore
+
+# Node.js-related files
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Strapi-specific files
+.cache
+build
+export_*.tar.gz
+
+# Environment files
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
